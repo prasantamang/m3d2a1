@@ -7,7 +7,6 @@ a.top-list-link {
 }
 .page-wrapper{
     width: 100%;
-    background-color: green;
 }
 
 ul.top-list {
@@ -19,7 +18,6 @@ li.top-list-list{
 }
 .header-wrapper{
     width: 100%;
-    background-color: blue;
 }
 .header-top{
     width: 100%;
@@ -57,7 +55,6 @@ input:focus{
 }
 .header-bottom{
     width: 100%;
-    background-color: blue;
     padding:0px;
 }
 .header-container{
@@ -86,7 +83,6 @@ input:focus{
 }
 .navigation{
     width: 100%;
-    background-color: green;
 }
 .top-nav{
     width: 98%;
@@ -118,7 +114,6 @@ ul li.nav-list-list{
 }
 .intro-box{
     width: 100%;
-    background-color: yellow;
 }
 .intro-container{
     width: 98%;
